@@ -1,0 +1,24 @@
+﻿Build started 11/3/2018 7:32:52 PM.
+     1>Project "C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\iGraphics Project\iGraphics Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\iGraphics Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\sadman\desktop\feluda main(25.09.18)99.01% update\feluda main\igraphics project\functions.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\sadman\desktop\feluda main(25.09.18)99.01% update\feluda main\igraphics project\functions.h(560): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\Release\iGraphics Project.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\iGraphics Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\Release\iGraphics Project.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\Release\iGraphics Project.lib" /MACHINE:X86 Release\iMain.obj
+         Generating code
+         Finished generating code
+         iGraphics Project.vcxproj -> C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\Release\iGraphics Project.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\Release\iGraphics Project.exe;#1" /manifest "Release\iGraphics Project.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\iGraphics Project.unsuccessfulbuild".
+         Touching "Release\iGraphics Project.lastbuildstate".
+     1>Done Building Project "C:\Users\Sadman\Desktop\feluda main(25.09.18)99.01% Update\feluda main\iGraphics Project\iGraphics Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.00
